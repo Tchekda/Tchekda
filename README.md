@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why We Had to Switch from NestJS to Rust Over One Hidden &lpar;and Costly&rpar; Setting](https://dev.to/ivao/why-we-switched-from-nestjs-to-rust-over-one-hidden-and-costly-setting-d9f)
+- [How We Handle Megabytes of Real-Time Data in React with IndexedDB](https://dev.to/ivao/how-we-handle-megabytes-of-real-time-data-in-react-with-indexeddb-1760)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
