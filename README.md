@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking to help with **fixing bugs and optimizing systems**
 
-- 👨‍💻 All of my projects are available at [https://www.tchekda.fr](https://www.tchekda.fr)
+- 👨‍💻 All of my projects are available at [tchekda.fr](https://www.tchekda.fr)
 
 - 📝 I regularly write articles on [https://dev.to/tchekda](https://dev.to/tchekda)
 
 - 📫 How to reach me **contact@tchekda.fr**
 
-- 📄 Know about my experiences [https://www.tchekda.fr/CV-SWE.pdf](https://www.tchekda.fr/CV-SWE.pdf)
+- 📄 Know about my experiences [my CV](https://www.tchekda.fr/CV-SWE.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
