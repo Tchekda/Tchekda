@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Tchekachev</h1>
 <h3 align="center">Cloud-Native Software Engineer - SRE & DevOps - Passionate about Distributed Systems</h3>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=tchekda" alt="tchekda trophies" /></p>
-
 - 🔭 I’m currently working on [IVAO Web systems](https://ivao.aero)
 
 - 👯 I’m looking to collaborate on **Cloud architectures**
@@ -32,3 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-omega-lyart-78.vercel.app/api?username=tchekda&show_icons=true&locale=en" alt="tchekda" /></p>
 
+
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=tchekda" alt="tchekda trophies" /></p>
