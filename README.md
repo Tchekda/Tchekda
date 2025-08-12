@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From TypeScript to SQL: Automatically Granting DB Permissions Without Losing Your Mind](https://dev.to/ivao/from-typescript-to-sql-automatically-granting-db-permissions-without-losing-your-mind-2am3)
 - [We Trust Cargo — But libmysqlclient Taught Us to Check the System Too](https://dev.to/ivao/we-trust-cargo-but-libmysqlclient-taught-us-to-check-the-system-too-1190)
 - [Why We Had to Switch from NestJS to Rust Over One Hidden &lpar;and Costly&rpar; Setting](https://dev.to/ivao/why-we-switched-from-nestjs-to-rust-over-one-hidden-and-costly-setting-d9f)
 - [How We Handle Megabytes of Real-Time Data in React with IndexedDB](https://dev.to/ivao/how-we-handle-megabytes-of-real-time-data-in-react-with-indexeddb-1760)
