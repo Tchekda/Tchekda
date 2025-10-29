@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Moved API Authentication from the Gateway to Our Microservices](https://dev.to/tchekda/why-we-moved-api-authentication-from-the-gateway-to-our-microservices-d4n)
+- [Why We Moved API Authentication from the Gateway to Our Microservices](https://dev.to/ivao/why-we-moved-api-authentication-from-the-gateway-to-our-microservices-d4n)
 - [From TypeScript to SQL: Automatically Granting DB Permissions Without Losing Your Mind](https://dev.to/ivao/from-typescript-to-sql-automatically-granting-db-permissions-without-losing-your-mind-2am3)
 - [We Trust Cargo — But libmysqlclient Taught Us to Check the System Too](https://dev.to/ivao/we-trust-cargo-but-libmysqlclient-taught-us-to-check-the-system-too-1190)
 - [Why We Had to Switch from NestJS to Rust Over One Hidden &lpar;and Costly&rpar; Setting](https://dev.to/ivao/why-we-switched-from-nestjs-to-rust-over-one-hidden-and-costly-setting-d9f)
