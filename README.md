@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-omega-lyart-78.vercel.app/api?username=tchekda&include_all_commits=true&show_icons=true&locale=en" alt="tchekda" /></p>
 
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=tchekda" alt="tchekda trophies" /></p>
+<p align="left"><img src="https://gh-trophy.cdnsoft.net/?username=tchekda" alt="tchekda trophies" /></p>
